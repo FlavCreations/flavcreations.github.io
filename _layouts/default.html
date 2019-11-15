@@ -5,6 +5,12 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon_package_v0.16/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon_package_v0.16/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon_package_v0.16/favicon-16x16.png">
+    <link rel="manifest" href="/favicon_package_v0.16/site.webmanifest">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
 
 {% seo %}
   </head>
@@ -13,10 +19,6 @@
 
     <header>
       <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
 
 <!---        <section id="downloads">
           {% if site.show_downloads %}
@@ -26,6 +28,13 @@
           <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
       -->
+        <div style="display:inline-block;vertical-align:top;">
+          <img src="assets/images/Flavorful_Logo.png" width="400" height="400">
+        </div>
+        <div style="display:inline-block;vertical-align:bottom;">
+          <div><h1>{{ site.title | default: site.github.repository_name }}</h1></div>
+          <div color:#FFD700><h2>{{ site.description | default: site.github.project_tagline }}</h2></div>
+        </div>
       </div>
     </header>
 
