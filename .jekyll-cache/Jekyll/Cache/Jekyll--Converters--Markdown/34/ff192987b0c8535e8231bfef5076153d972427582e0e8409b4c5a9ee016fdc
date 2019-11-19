@@ -1,9 +1,12 @@
-I"
+I"~
 <!--
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
+--->
+<p><a href="./stream-warriors-instructions.html">Stream Warriors Instructions</a>.</p>
 
+<!--
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
