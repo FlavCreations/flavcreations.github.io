@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 <!--
 [Stream Warriors Instructions](./stream-warriors-instructions.html).
 -->
-Welcome to Flav Creations, I am Flavius.
+Welcome to Flav Creations.
 
 Please pardon the mess, or lack of things posted here? I have just recently swapped over from a website using an unfinished wordpress site on a web hosted server to GitHub Pages so some things may not look as tidy or finished as I would hope! I still wanted to present something while I am working on the pages.
 Maybe consider it maintenance mode for now? If you happen to like doggos, here is [ForLoveOfPaws' Rescue](http://forloveofpaws.org/) website which is still up and running. I am still working on the new page for that as well.  Thank you very much <3
