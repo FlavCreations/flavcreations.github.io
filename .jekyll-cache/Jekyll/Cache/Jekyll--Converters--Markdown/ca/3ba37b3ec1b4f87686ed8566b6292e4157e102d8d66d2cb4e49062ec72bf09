@@ -1,4 +1,4 @@
-I"Á<!--
+I"ê<!--
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
 [Link to another page](./another-page.html).
@@ -6,8 +6,19 @@ Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 <!--
 [Stream Warriors Instructions](./stream-warriors-instructions.html).
 -->
-<p>Hello, welcome to Flav Creations, I am Flavius.
-Please pardon the mess, or lack of things posted here? I have just recently swapped over from a website on a web hosted server to GitHub pages so some things may not look as tidy or finished as I would hope! I still wanted to present something while I am working on the pages.</p>
+
+<p>Welcome to Flav Creations.</p>
+
+<p>Please pardon the mess, or lack of things posted here? 
+I have just recently swapped over from a website using 
+an unfinished wordpress site on a web hosted server to 
+GitHub Pages so some things may not look as tidy or finished 
+as I would hope! I still wanted to present something while I 
+am working on the pages. Maybe consider it maintenance mode 
+for now? If you happen to like doggos, here is 
+<a href="http://forloveofpaws.org/">ForLoveOfPawsâ€™ Rescue</a> website 
+which is still up and running. I am still working on the 
+new page for that as well.  Thank you very much &lt;3</p>
 
 <!--
 There should be whitespace between paragraphs.
