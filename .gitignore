@@ -1,8 +1,5 @@
 _site
 .sass-cache
+.jekyll-metadata
+node_modules
 Gemfile.lock
-*.gem
-.idea/modules.xml
-.idea/vcs.xml
-.idea/flavcreations.github.io.iml
-.idea/workspace.xml
